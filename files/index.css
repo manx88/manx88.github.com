@@ -1,0 +1,147 @@
+BODY {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+FORM {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H1 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H2 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+UL {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+LI {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+P {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+BODY {
+	BACKGROUND-COLOR: #2b8901; FONT-SIZE: 12px
+}
+A {
+	TEXT-DECORATION: none
+}
+.red {
+	COLOR: #ff6600
+}
+.nav {
+	MARGIN: 0px auto; WIDTH: 950px
+}
+.cls {
+	CLEAR: both
+}
+#hotTit {
+	TEXT-ALIGN: left;
+	WIDTH: 500px;
+	PADDING-TOP: 20px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+#hotTit H1 {
+	LINE-HEIGHT: 30px; FONT-FAMILY: "微软雅黑"; FONT-SIZE: 18px
+}
+#hotTit P {
+	LINE-HEIGHT: 22px; COLOR: #333; FONT-SIZE: 14px
+}
+#hot4 {
+	TEXT-ALIGN: left; MARGIN: 0px auto; WIDTH: 400px
+}
+#hot4 H2 {
+	LINE-HEIGHT: 30px; FONT-FAMILY: "微软雅黑"; FONT-SIZE: 18px
+}
+#hot4 P {
+	LINE-HEIGHT: 22px; COLOR: #333; FONT-SIZE: 12px
+}
+#banner_1 {
+	TEXT-ALIGN: center; BACKGROUND: url(banner_1.jpg) no-repeat center top; HEIGHT: 116px
+}
+#banner_2 {
+	BACKGROUND: url(banner_2.jpg) no-repeat center top; HEIGHT: 76px
+}
+#banner_3 {
+	BACKGROUND: url(banner_3.jpg) no-repeat center top; HEIGHT: 90px
+}
+#banner_4 {
+	BACKGROUND: url(banner_4.jpg) no-repeat center top; HEIGHT: 75px
+}
+#banner_5 {
+	BACKGROUND: url(banner_5.jpg) no-repeat center top; HEIGHT: 90px
+}
+#banner_name {
+	BACKGROUND-COLOR: #fff; HEIGHT: 40px
+}
+#banner_name H1 {
+	TEXT-ALIGN: left; LINE-HEIGHT: 40px; PADDING-LEFT: 20px; FONT-FAMILY: "黑体"; COLOR: #4cac00; FONT-SIZE: 18px
+}
+#productsNav {
+	PADDING-BOTTOM: 25px; BACKGROUND-COLOR: #fff
+}
+#products {
+	BORDER-BOTTOM: #a4cc83 1px solid; BORDER-LEFT: #a4cc83 1px solid; WIDTH: 600px; FLOAT: left; MARGIN-LEFT: 22px !important; BORDER-TOP: #a4cc83 1px solid; BORDER-RIGHT: #a4cc83 1px solid
+}
+#productsRight {
+	BORDER-BOTTOM: #a4cc83 1px solid; WIDTH: 300px; FLOAT: right; BORDER-TOP: #a4cc83 1px solid; MARGIN-RIGHT: 25px !important; BORDER-RIGHT: #a4cc83 1px solid
+}
+.product {
+	BORDER-BOTTOM: #d9e7cd 1px solid; MARGIN: 25px 30px 5px; WIDTH: 520px; FLOAT: left; HEIGHT: 215px
+}
+.product H1 {
+	TEXT-ALIGN: left; LINE-HEIGHT: 24px; COLOR: #666; FONT-SIZE: 12px
+}
+.product H2 {
+	TEXT-ALIGN: left; LINE-HEIGHT: 26px; FONT-SIZE: 16px
+}
+.product H2 A {
+	FONT-FAMILY: "微软雅黑"; COLOR: #f45e0c
+}
+.product IMG {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-RIGHT: 15px; FLOAT: left; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+.product P {
+	LINE-HEIGHT: 22px; COLOR: #308020
+}
+.product SPAN {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 18px; FONT-WEIGHT: 800; PADDING-TOP: 0px
+}
+.button {
+	PADDING-TOP: 2px
+}
+.newnav {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 10px
+}
+.titnav {
+	LINE-HEIGHT: 28px; BACKGROUND-COLOR: #49aa00; HEIGHT: 28px; COLOR: #ffffff
+}
+.titnav .tit {
+	PADDING-LEFT: 20px; FLOAT: left
+}
+.newnav UL {
+	PADDING-BOTTOM: 15px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; PADDING-TOP: 15px
+}
+.newnav LI {
+	LINE-HEIGHT: 22px
+}
+.newnav LI A {
+	COLOR: #333
+}
+.newnav LI A:hover {
+	COLOR: #ff9900; TEXT-DECORATION: underline
+}
+.more {
+	TEXT-ALIGN: right; PADDING-RIGHT: 10px; FLOAT: right; COLOR: #333
+}
+.more A {
+	COLOR: #ffff33
+}
+#bottom {
+	TEXT-ALIGN: center; LINE-HEIGHT: 22px; BACKGROUND-COLOR: #f6f6f6; MARGIN-TOP: 15px; FONT-FAMILY: Arial, Helvetica, sans-serif; HEIGHT: 130px
+}
+#bottom P A {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #000; TEXT-DECORATION: none
+}
